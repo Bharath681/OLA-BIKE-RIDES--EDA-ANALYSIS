@@ -1,0 +1,16 @@
+💬 Data Analyst Practice Questions (SQL + Power BI)
+🧠 SQL Questions:
+
+1️⃣ Find the top 3 months with highest total rides
+2️⃣ Retrieve the average rides per weather condition
+3️⃣ Calculate the percentage of rides per season
+4️⃣ Identify temperature range with most rides
+5️⃣ Calculate month-over-month growth rate
+
+📊 Power BI Questions:
+
+1️⃣ How to create a slicer for season and weather?
+2️⃣ What DAX measure shows YoY ride growth?
+3️⃣ How to visualize registered vs. casual riders trend?
+4️⃣ How to use conditional formatting for above-average months?
+5️⃣ Can forecasting be added to predict future ride demand?
